@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad3</string>
+    <string name="increase">Sumar</string>
+    <string name="decrease">Restar</string>
+</resources>
